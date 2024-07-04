@@ -1,5 +1,5 @@
 ttests and Integration Tests
-it involves the following tasks
+has the  following tasks
 Tasks
 0. Parameterize a unit test
 mandatory
